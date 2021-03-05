@@ -12,7 +12,8 @@
 </p>
 <details>
 
-![asd](https://github-readme-stats.vercel.app/api?username=chikoshidori&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ChikoShidori&show_icons=true&hide_border=true&theme=dark&count_private=true)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChikoShidori&layout=compact&langs_count=8&theme=dark)
 
 </details>
 
