@@ -11,11 +11,10 @@
    </p>
 </p>
 <details>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ChikoShidori&show_icons=true&hide_border=true&border_radius=23&theme=dark&count_private=true)
-<br>
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChikoShidori&hide_border=true&border_radius=23&layout=compact&langs_count=8&theme=dark)
-
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChikoShidori&hide_border=true&border_radius=23&layout=compact&langs_count=8&theme=dark" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChikoShidori&show_icons=true&hide_border=true&border_radius=23&theme=dark&count_private=true" />
+</p>
 </details>
 
 <!--
