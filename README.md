@@ -17,6 +17,11 @@
 </p>
 </details>
 
+<p align="center">
+<a href="https://discord.gg/FzdUAfHqNy">
+  <img src="https://invidget.switchblade.xyz/FzdUAfHqNy" align="center" >
+</a>
+</p>
 <!--
 **ChikoShidori/ChikoShidori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
