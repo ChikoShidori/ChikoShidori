@@ -26,7 +26,7 @@
 </details>
 
 <p align="center">
-<a href="https://discord.gg/FzdUAfHqNy">
-  <img src="https://invidget.switchblade.xyz/FzdUAfHqNy" align="center" >
+<a href="https://discord.gg/HhybNhchcC">
+  <img src="https://invidget.switchblade.xyz/HhybNhchcC" align="center" >
 </a>
 </p>
